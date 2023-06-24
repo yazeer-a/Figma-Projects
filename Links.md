@@ -6,5 +6,5 @@ These are some my UI projects that were done in Figma
 2. Movie ticket Booking App:
   https://www.figma.com/file/ct1ABulawqIbvuJUrHdvJm/Book-my-Show?type=design&t=65Tibi9TOVyComiO-1
 
-3. SpecsKart:
+3. SpecsKart App:
   https://www.figma.com/file/zx72MDNq7Ipw6Jy6k7ovhG/SpecsKart?type=design&t=65Tibi9TOVyComiO-1
