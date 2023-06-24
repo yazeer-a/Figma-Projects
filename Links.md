@@ -1,6 +1,6 @@
 These are some my UI projects that were done in Figma
 
-1. Fruit Shop Website:
+1. Fruit Shop for both Phone and PC view:
   https://www.figma.com/file/M4JohIoy2qtbOmlboSOiCT/FRUIT-SHOP-WEB?type=design&node-id=0%3A1&t=65Tibi9TOVyComiO-1
 
 2. Movie ticket Booking App:
